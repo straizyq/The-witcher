@@ -1,6 +1,6 @@
 const slides = [
-    '/images/ВИЧ2.png',
-    '/images/witcher2.png'
+    'images/ВИЧ2.png',
+    'images/witcher2.png'
 ];
 
 let currentSlide = 0;
