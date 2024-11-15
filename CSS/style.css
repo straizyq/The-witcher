@@ -51,7 +51,7 @@ h6 {
   scale: 1.25;
 }
 .welcome {
-  background-image: url("/images/the-witcher 1.png");
+  background-image: url("../images/the-witcher 1.png");
   background-repeat: no-repeat;
   padding-bottom: 300px;
   background-size: cover;
