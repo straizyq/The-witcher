@@ -1,5 +1,5 @@
 let slides = [
-    '../images/ВИЧ2.png', 
+    '../images/witcher1.png', 
     '../images/witcher2.png'
 ];
 
