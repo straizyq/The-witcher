@@ -127,7 +127,7 @@ h6 {
 }
 
 .cards-front {
-  background-image: url("/images/ciri.png");
+  background-image: url("../images/ciri.png");
   transform: perspective(600px) rotateY(0deg);
   backface-visibility: hidden;
   width: 559px;
@@ -188,14 +188,14 @@ h6 {
   gap: 42px;
 }
 .yen {
-  background-image: url("/images/yen.png");
+  background-image: url("../images/yen.png");
   background-repeat: no-repeat;
 }
 .wild {
-  background-image: url("/images/wild.png");
+  background-image: url("../images/wild.png");
 }
 .witchers {
-  background-image: url("/images/witchers.png");
+  background-image: url("../images/witchers.png");
 }
 .story-title {
   font-weight: 700;
